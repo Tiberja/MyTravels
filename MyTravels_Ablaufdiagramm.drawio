@@ -1,11 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.0.2">
   <diagram name="Seite-1" id="La2B3Su5dev_HtSuDkpm">
-    <mxGraphModel dx="976" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LTEJgwgU3btc6FkWAqgK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-2" value="Legende" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="367" y="239" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-3" value="User Action" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="367" y="275" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-4" value="System Action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="367" y="316" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-5" value="&lt;span data-start=&quot;1228&quot; data-end=&quot;1247&quot; style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;System Decision&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="469" y="280" width="62" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-6" value="Screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="710" y="297.5" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-7" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;User Decision&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="541" y="282" width="61" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-8" value="Button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="618" y="280" width="75" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LTEJgwgU3btc6FkWAqgK-9" value="User Input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="618" y="318" width="74" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
